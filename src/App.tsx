@@ -136,7 +136,7 @@ export default function App() {
       <header className="header">
         <strong>RunFit Advisor MVP（シューズ選定支援）</strong>
         <nav>
-          <Link to="/dashboard">ダッシュボード</Link>
+          <Link to="/dashboard">ダッシュボード（反映確認 2026-04-18 12:38:11）</Link>
           <Link to="/customers">顧客一覧</Link>
           <Link to="/customers/new">顧客登録</Link>
           <button onClick={()=>setLoggedIn(false)}>ログアウト</button>
